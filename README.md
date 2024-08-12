@@ -1,0 +1,1 @@
+This project involved the automation of a large-scale Sinhala PDF extraction process, handling over 10,000 PDFs. The solution was designed to efficiently extract text from the PDFs, export the data to CSV files, and translate Sinhala words into English. 
